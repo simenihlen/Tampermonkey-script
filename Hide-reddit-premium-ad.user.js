@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-window.addEventListener("loadedmetadata", function() {
+window.addEventListener("load", function() {
     document.querySelectorAll("[href='/premium']")
         .forEach(i => (i.style.display = 'none'));
 });
