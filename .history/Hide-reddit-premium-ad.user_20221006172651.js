@@ -14,4 +14,4 @@ window.addEventListener("load", function() {
         .forEach(i => (i.style.display = 'none'));
 });
 
-testing
+test
