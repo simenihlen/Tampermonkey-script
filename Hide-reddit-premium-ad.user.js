@@ -9,7 +9,7 @@
 // @grant        none
 // ==/UserScript==
 
-window.addEventListener("load", function() {
+window.addEventListener('load', function() {
     document.querySelectorAll("[href='/premium']")
         .forEach(i => (i.style.display = 'none'));
 });
