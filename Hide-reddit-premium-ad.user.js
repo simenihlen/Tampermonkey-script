@@ -13,3 +13,5 @@ window.addEventListener("load", function() {
     document.querySelectorAll("[href='/premium']")
         .forEach(i => (i.style.display = 'none'));
 });
+
+test
