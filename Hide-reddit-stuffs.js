@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Hide-reddit-premium-ad
+// @name         Hide-reddit-stuffs
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  try to take over the world!
