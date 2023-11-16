@@ -12,4 +12,6 @@
 window.addEventListener('load', function() {
     document.querySelectorAll("[href='/premium']")
         .forEach(i => (i.style.display = 'none'));
+    document.querySelectorAll("[class='sidebox create']")
+        .forEach(i => (i.style.display = 'none'));
 });
